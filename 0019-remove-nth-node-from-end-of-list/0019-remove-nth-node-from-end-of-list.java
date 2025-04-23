@@ -17,17 +17,17 @@ class Solution {
             cnt++;
             temp = temp.next;
         }
-        int res = cnt - N;
-        if (res == 0) {
-            ListNode newHead = head.next;
-            head.next = null;
-            return newHead;
+        if (cnt == N) {
+            ListNode newhead = head.next;
+            head = null;
+            return newhead;
         }
-        
+        int res = cnt - N;
         temp = head;
-        while (res > 1) {
-            temp = temp.next;
+        while (temp != null) {
             res--;
+            if (res == 0) break;
+            temp = temp.next;
         }
         ListNode delNode = temp.next;
         temp.next = temp.next.next;
