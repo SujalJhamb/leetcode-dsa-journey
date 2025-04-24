@@ -32,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0328-odd-even-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
