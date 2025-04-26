@@ -15,15 +15,15 @@
  */
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        findpreorder(root, result);
-        return result;
+        List<Integer> ans = new ArrayList<>();
+        findPreOrder(root, ans);
+        return ans;
     }
 
-    public static void findpreorder(TreeNode root, List<Integer> arr) {
+    public void findPreOrder(TreeNode root, List<Integer> arr) {
         if (root == null) return;
         arr.add(root.val);
-        findpreorder(root.left, arr);
-        findpreorder(root.right, arr);
+        if (root.left != null) findPreOrder(root.left, arr);
+        if (root.right != null) findPreOrder(root.right, arr);
     }
 }
