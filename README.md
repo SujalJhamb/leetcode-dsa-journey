@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
