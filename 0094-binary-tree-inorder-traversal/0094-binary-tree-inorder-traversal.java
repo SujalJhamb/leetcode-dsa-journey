@@ -16,21 +16,14 @@
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> list = new ArrayList<>();
-        Stack<TreeNode> stack = new Stack<>();
-        TreeNode node = root;
-        while (true) {
-            if (node != null) {
-                stack.push(node);
-                node = node.left;
-            } else {
-                if (stack.isEmpty()) {
-                    break;
-                }
-                node = stack.pop();
-                list.add(node.val);
-                node = node.right;
-            }
-        }
+        findInOrder(root, list);
         return list;
+    }
+
+    public void findInOrder(TreeNode root, List<Integer> list) {
+        if (root == null) return;
+        if (root.left != null) findInOrder(root.left, list);
+        list.add(root.val);
+        if (root.right != null) findInOrder(root.right, list);
     }
 }
