@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/SujalJhamb/leetcode-dsa-journey/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
